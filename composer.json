@@ -1,5 +1,5 @@
 {
-    "name": "xoborg/laravel-redsys",
+    "name": "diputaciodegirona/laravel-redsys",
     "description": "Package para usar la pasarela de pago Redsys en Laravel",
     "keywords": [
         "xoborg",
